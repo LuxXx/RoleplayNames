@@ -8,6 +8,7 @@ It replaces underscores and dots in names.
 
 Installation:
  - Install the ASI Loader
+ - [Download RoleplayNames.asi](https://github.com/LuxXx/RoleplayNames/releases)
  - Copy RoleplayNames.asi to your Grand Theft Auto: San Andreas Installation
  
  Credits:
